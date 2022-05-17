@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">weather project</string>
+    <string name="txt_today">Today</string>
+    <string name="txt_next_7_days">Next 7 Days</string>
+    <string name="txt_humidity">Humidit</string>
+    <string name="txt_today_15_december">Today,15 December</string>
+    <string name="txt_20_c">20°C</string>
+    <string name="txt_jakarta">Jakarta</string>
+    <string name="txt_234">234</string>
+    <string name="txt_wind">wind</string>
+    <string name="txt_26">26%</string>
+    <string name="txt_1_4km">1.4km</string>
+    <string name="txt_visibility">Visibility</string>
+    <string name="_next_7_days"><![CDATA[Next 7 days >]]></string>
+    <string name="_26">26°</string>
+    <string name="_11_00">11.00</string>
+    <string name="_20">20°</string>
+    <string name="_24">24°</string>
+    <string name="_12_00">12.00</string>
+</resources>
